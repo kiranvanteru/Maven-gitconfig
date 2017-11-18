@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31" started-at="2017-11-18T15:30:38Z" finished-at="2017-11-18T15:30:38Z">
+  <suite name="Default suite" duration-ms="47" started-at="2017-11-18T15:41:51Z" finished-at="2017-11-18T15:41:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31" started-at="2017-11-18T15:30:38Z" finished-at="2017-11-18T15:30:38Z">
+    <test name="Default test" duration-ms="47" started-at="2017-11-18T15:41:51Z" finished-at="2017-11-18T15:41:52Z">
       <class name="configtestgit.Mavengit">
-        <test-method status="PASS" signature="f()[pri:0, instance:configtestgit.Mavengit@4501b7af]" name="f" duration-ms="15" started-at="2017-11-18T21:00:38Z" finished-at="2017-11-18T21:00:38Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:configtestgit.Mavengit@4501b7af]" name="f" duration-ms="15" started-at="2017-11-18T21:11:51Z" finished-at="2017-11-18T21:11:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
