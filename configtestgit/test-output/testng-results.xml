@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2017-11-18T14:58:11Z" finished-at="2017-11-18T14:58:12Z">
+    <groups>
+    </groups>
+    <test name="GitConfigTest" duration-ms="47" started-at="2017-11-18T14:58:11Z" finished-at="2017-11-18T14:58:12Z">
+      <class name="configtestgit.Mavengit">
+        <test-method status="PASS" signature="f()[pri:0, instance:configtestgit.Mavengit@4501b7af]" name="f" duration-ms="16" started-at="2017-11-18T20:28:11Z" finished-at="2017-11-18T20:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- configtestgit.Mavengit -->
+    </test> <!-- GitConfigTest -->
+  </suite> <!-- Suite -->
+</testng-results>
