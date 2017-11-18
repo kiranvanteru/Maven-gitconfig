@@ -7,5 +7,6 @@ public class Mavengit {
   public void f() {
 	  
 	  System.out.println("maven-git test config");
+	  System.out.println("maven-git test config1");
   }
 }
